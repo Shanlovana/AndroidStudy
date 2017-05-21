@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_progress_bar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.shanlovana.rcimageview.activities.ProgressBarActivity">
+
+ <!--   <com.shanlovana.rcimageview.views.RoundProgressBar
+        android:id="@+id/roun1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:progress="37"
+        app:style="fill"
+        />
+    <com.shanlovana.rcimageview.views.RoundProgressBar
+        android:id="@+id/roundd2"
+        android:layout_below="@+id/roun1"
+        android:layout_marginTop="20dp"
+        app:progress="37"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:style="fillUp"
+        />
+    <com.shanlovana.rcimageview.views.RoundProgressBar
+        android:id="@+id/round3"
+        android:layout_marginTop="20dp"
+        app:progress="37"
+        android:layout_below="@+id/roundd2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:style="stroke"
+        />-->
+    <com.shanlovana.rcimageview.views.ChartView
+        android:id="@+id/chartview"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="240dp"
+        />
+
+   <!-- <com.shanlovana.rcimageview.views.PathView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>-->
+
+
+
+
+<!--    <com.shanlovana.rcimageview.views.The3DClockView
+        android:layout_below="@+id/chartview"
+        android:layout_width="200dp"
+        android:layout_height="200dp"/>-->
+
+</RelativeLayout>

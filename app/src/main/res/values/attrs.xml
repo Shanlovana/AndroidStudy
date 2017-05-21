@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--这里为什么抽出去来？因为假如有两个textSize分别在不同的自定义view下，构建的时候会报错，抽取出来就不会了-->
+    <attr name="textSize" format="dimension|reference"/>
+    <attr name="textColor" format="color"/>
+
+
+    <declare-styleable name="RoundImageView">
+        <attr name="borderRadius" format="reference|dimension"/>
+        <attr name="type">
+            <enum name="circle" value="0"/>
+            <enum name="round" value="1"/>
+        </attr>
+
+    </declare-styleable>
+    <!--progressbar的样式-->
+    <declare-styleable name="RoundProgressBar">
+        <attr name="roundColor" format="color"/>
+        <attr name="roundProgressColor" format="color"/>
+        <attr name="textColor"/>
+        <attr name="textSize"/>
+        <attr name="roundWidth" format="reference|dimension"/>
+        <attr name="maxText" format="integer"/>
+        <attr name="progress" format="integer"/>
+        <attr name="textIsDisplayable" format="boolean"/>
+        <attr name="style">
+            <enum name="fill" value="0"/>
+            <enum name="stroke" value="1"/>
+            <enum name="fillUp" value="2"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="ChartView">
+        <attr name="max_score" format="integer"/>
+        <attr name="min_score" format="integer"/>
+        <attr name="broken_line_color" format="color"/>
+        <attr name="textColor"/>
+        <attr name="textSize"/>
+        <attr name="lineWidth" format="reference|dimension"/>
+        <attr name="dottedlineColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="The3DClockView">
+        <attr name="backgroundColor" format="color|reference"/>
+        <attr name="lightColor" format="color|reference"/>
+        <attr name="darkColor" format="color|reference"/>
+        <attr name="textSize"/>
+    </declare-styleable>
+
+    <declare-styleable name="HistogramView">
+        <attr name="cylinderColor" format="color|reference"/><!--柱体颜色-->
+        <attr name="axesColor" format="color|reference"/><!--坐标线颜色-->
+        <attr name="textColor"/><!--文字颜色-->
+        <attr name="cylinderWith" format="integer"/><!--主题宽度-->
+        <attr name="maxSize" format="float"/><!--最大值-->
+        <attr name="textSize"/><!--文字字体大小-->
+    </declare-styleable>
+
+
+</resources>

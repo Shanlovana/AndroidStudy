@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg" >
+
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#24B2FA"
+        android:padding="10dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="文件下载"
+            android:textColor="@android:color/black"
+            android:textSize="22sp" />
+
+        <Button
+            android:id="@+id/downlist"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:textColor="#CFB400"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:minWidth="80dp"
+            android:onClick="goDownLoadList"
+            android:text="下载列表" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/layout"
+        android:cacheColorHint="#00000000"
+        android:scrollbars="none" />
+
+</RelativeLayout>

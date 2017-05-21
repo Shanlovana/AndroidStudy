@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shanlovana.rcimageview.touchviews.GrandPaViewGroup
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_touch_test"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.shanlovana.rcimageview.activities.TouchTestActivity">
+
+    <com.shanlovana.rcimageview.touchviews.FatherViewGroup
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent">
+
+        <com.shanlovana.rcimageview.touchviews.LogImageView
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:src="@drawable/damimi"/>
+
+
+    </com.shanlovana.rcimageview.touchviews.FatherViewGroup>
+
+
+</com.shanlovana.rcimageview.touchviews.GrandPaViewGroup>
