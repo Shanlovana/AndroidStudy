@@ -1,1 +1,1 @@
-include ':app', ':rxandretrofit', 'downloadfiles'
+include ':app', ':rxandretrofit', 'downloadfiles', 'mvpapp', 'tvnetcheck', 'optimization'

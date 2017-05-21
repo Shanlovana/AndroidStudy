@@ -10,7 +10,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/downloadfiles" />
+            <option value="$PROJECT_DIR$/mvpapp" />
+            <option value="$PROJECT_DIR$/optimization" />
             <option value="$PROJECT_DIR$/rxandretrofit" />
+            <option value="$PROJECT_DIR$/tvnetcheck" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
