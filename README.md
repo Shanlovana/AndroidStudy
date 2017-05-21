@@ -6,6 +6,40 @@
 
 ——————————————————————————————————————————————————————————————————————
 
+### 主要加入项目说明
+
++  MVPapp  ：让您理解与尽快使用MVP 
+
+个人博客地址：[http://www.halloandroid.com/2017/02/20/MVPModel/](http://www.halloandroid.com/2017/02/20/MVPModel/)
+
+CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/57079048](http://blog.csdn.net/zhcswlp0625/article/details/57079048)
+
++  TVnetCheck  ：TV段检测网络变化 添加有线网络，无线网络以及PPPOE 
+
+个人博客地址：[http://www.halloandroid.com/2017/01/08/TV%20NetCheck/](http://www.halloandroid.com/2017/01/08/TV%20NetCheck/)
+
+CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/54089114](http://blog.csdn.net/zhcswlp0625/article/details/54089114)
+
++  Opitimization  ：app的优化，代码优化，布局优化，体积优化等等
+
+个人博客地址：[http://www.halloandroid.com/2017/03/12/AppStartOpitimization/](http://www.halloandroid.com/2017/03/12/AppStartOpitimization/)
+
+CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/61518188](http://blog.csdn.net/zhcswlp0625/article/details/61518188)
+
++  Downloadfiles  ：Android原生实现多线程断点下载
+
+个人博客地址：[http://www.halloandroid.com/2017/05/19/DownLoadDemoWithAllOringinal/](http://www.halloandroid.com/2017/05/19/DownLoadDemoWithAllOringinal/)
+
+CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/72522757](http://blog.csdn.net/zhcswlp0625/article/details/72522757)
+
+*
+
+*
+
+*
+
+
+————————————————————————————————————————————————————
 
 **二月十九日新增圆形ImageView，可以为您的学习自定义view之路提供一些帮助**
 
@@ -15,7 +49,7 @@
 
 ![](http://oavdalesp.bkt.clouddn.com/circlerrrrr.jpg)
 
-——————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————
 
 **三月三日新增圆形progressBar，可以为您的学习自定义view之路提供一些帮助**
 
@@ -24,25 +58,25 @@
 
 ![](http://oavdalesp.bkt.clouddn.com/0170303085408.png)
 
-——————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————
 **三月二十九日新增ChartView，可以为您的学习自定义折线图提供一些帮助**
 
 
 ![](http://oc5bjv3gr.bkt.clouddn.com/whatwewanttodraw.png)
 
-——————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————
 
 **四月二号新增Android TouchEvent事件分发机制Demo，希望能帮您更好地理解TouchEvent事件分发机制**
 
 ![](http://oc5bjv3gr.bkt.clouddn.com/toucheventdetail.jpg)
 
-——————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————
 
 **四月十二添加柱形图，可以为您的学习自定义柱形图提供一些帮助**
 
 ![](http://oo94hcyew.bkt.clouddn.com/gongsiyingyi.jpg)
 
-——————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————
 
 **四月二十三添加AsyncTask的示例与用法，可以理解异步任务处理AsyncTask**
 
@@ -51,7 +85,7 @@
 
 
 
-——————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————
 
 
 **五月二十一添加Android原生实现多线程断点下载**
@@ -65,7 +99,7 @@
 
 
 
-
+————————————————————————————————————————————————————
 
 
 **希望与你一起交流！**
