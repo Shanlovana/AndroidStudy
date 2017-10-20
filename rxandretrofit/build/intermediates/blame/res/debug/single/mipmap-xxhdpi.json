@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Shanlovana\\Desktop\\AndroidStudy\\rxandretrofit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Shanlovana\\Desktop\\AndroidStudy\\rxandretrofit\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\AndroidStudy\\rxandretrofit\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidProject\\AndroidStudy\\rxandretrofit\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

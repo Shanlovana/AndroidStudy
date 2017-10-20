@@ -1,240 +1,240 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:2:1-62:12
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:2:1-62:12
 	package
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:3:11-49
-		INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:3:11-49
+		INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:4:5-66
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:4:5-66
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:4:22-64
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:5:5-81
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:5:22-78
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:5:22-78
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:6:5-81
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:6:22-78
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:7:5-84
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:7:5-84
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:7:22-81
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:7:22-81
 uses-permission#android.permission.GET_TASKS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:8:5-68
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:8:5-68
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:8:22-65
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:8:22-65
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:9:5-76
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:9:5-76
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:9:22-73
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:9:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:10:5-79
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:10:22-76
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.intent.action.ACTION_SHUTDOWN
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:11:5-77
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:11:5-77
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:11:22-74
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:11:22-74
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:12:5-73
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:12:5-73
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:12:22-70
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:12:22-70
 uses-permission#android.permission.WRITE_SECURES
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:13:5-72
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:13:5-72
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:13:22-69
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:13:22-69
 uses-permission#android.permission.CHANGE_CONFIGURATION
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:14:5-79
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:14:22-76
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:14:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:15:5-66
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:15:5-66
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:15:22-63
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:15:22-63
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:16:5-68
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:16:5-68
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:16:22-65
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:16:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:17:5-74
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:17:5-74
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:17:22-71
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:17:22-71
 uses-permission#android.permission.CALL_PHONE
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:18:5-69
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:18:5-69
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:18:22-66
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:18:22-66
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:19:5-80
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:19:5-80
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:19:22-77
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:19:22-77
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:20:5-74
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:20:5-74
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:20:22-71
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:20:22-71
 uses-permission#com.google.android.googleapps.permission.GOOGLE_AUTH
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:21:5-92
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:21:5-92
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:21:22-89
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:21:22-89
 uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:22:5-82
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:22:5-82
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:22:22-79
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:22:22-79
 uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:23:5-72
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:23:5-72
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:23:22-69
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:23:22-69
 uses-permission#android.permission.WRITE_CONTACTS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:24:5-73
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:24:5-73
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:24:22-70
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:24:22-70
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:25:5-76
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:25:5-76
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:25:22-73
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:25:22-73
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:27:5-75
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:27:5-75
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:27:22-72
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:27:22-72
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:28:5-81
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:28:5-81
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:28:22-78
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:28:22-78
 uses-permission#android.permission.READ_USER_DICTIONARY
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:29:5-79
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:29:5-79
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:29:22-76
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:29:22-76
 uses-permission#android.permission.WRITE_USER_DICTIONARY
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:30:5-80
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:30:5-80
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:30:22-77
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:30:22-77
 uses-permission#android.permission.RESTART_PACKAGES
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:31:5-75
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:31:5-75
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:31:22-72
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:31:22-72
 uses-permission#android.permission.BATTERY_STATS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:32:5-72
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:32:5-72
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:32:22-69
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:32:22-69
 uses-permission#com.android.launcher.permission.READ_SETTINGS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:33:5-85
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:33:5-85
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:33:22-82
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:33:22-82
 uses-permission#com.android.launcher.permission.WRITE_SETTINGS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:34:5-86
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:34:5-86
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:34:22-83
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:34:22-83
 uses-permission#android.permission.SET_TIME_ZONE
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:35:5-72
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:35:5-72
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:35:22-69
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:35:22-69
 uses-permission#android.permission.SET_ANIMATION_SCALE
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:36:5-78
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:36:5-78
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:36:22-75
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:36:22-75
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:37:5-75
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:37:5-75
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:37:22-72
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:37:22-72
 uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:38:5-91
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:38:5-91
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:38:22-88
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:38:22-88
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:39:5-79
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:39:5-79
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:39:22-76
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:39:22-76
 uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:40:5-88
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:40:5-88
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:40:22-85
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:40:22-85
 uses-permission#android.permission.SET_WALLPAPER
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:41:5-72
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:41:5-72
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:41:22-69
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:41:22-69
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:42:5-68
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:42:5-68
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:42:22-65
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:42:22-65
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:43:5-80
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:43:5-80
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:43:22-77
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:43:22-77
 uses-permission#android.permission.ACCESS_DRM
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:44:5-69
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:44:5-69
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:44:22-66
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:44:22-66
 uses-permission#android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:45:5-90
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:45:5-90
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:45:22-87
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:45:22-87
 uses-permission#android.permission.INSTALL_DRM
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:46:5-70
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:46:5-70
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:46:22-67
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:46:22-67
 uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:47:5-88
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:47:5-88
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:47:22-85
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:47:22-85
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEM
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:48:5-83
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:48:5-83
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:48:22-80
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:48:22-80
 uses-permission#android.permission.INSTLL_PACKAGES
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:49:5-74
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:49:5-74
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:49:22-71
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:49:22-71
 application
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:51:5-60:19
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shanlovana\.android\build-cache\1ddf3e8f39944f214e57d6170a3e61049db23425\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Shanlovana\.android\build-cache\cc71d281bab214687c89fbab473f3c3a7627d1c0\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Shanlovana\.android\build-cache\272fd59a50fa2a3267913c23d5a9f7fa5ec3b788\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Shanlovana\.android\build-cache\a8b407e26e10b6f15665725b2cf0a5512eeedf12\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Shanlovana\.android\build-cache\b1200b329377b1605b143c205f9bbc885b0238f7\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Shanlovana\.android\build-cache\c9d0706edf9a7e817cda27db063447035f90ff52\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Shanlovana\.android\build-cache\846ab51a5de1a11d0a8afc5af0f7d6f3beca2809\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Shanlovana\.android\build-cache\5efd6e483d577036726746a939ea40d5a3302473\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Shanlovana\.android\build-cache\a7e384fb78160cc101b3f33366ac96c7a39b9516\output\AndroidManifest.xml:25:5-20
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:51:5-60:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shanlovana\.android\build-cache\763da23f2eb35509aaa18dab91ce51fa220ff35d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Shanlovana\.android\build-cache\62c896042a4ba1c5ffc44692b3a0f8713deddd24\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Shanlovana\.android\build-cache\55e3e0730f69b6540221e171e0c008f5c417cdb9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Shanlovana\.android\build-cache\3fac45394a9ce76f0e002d263f354f9eae19f4f8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Shanlovana\.android\build-cache\677ed5d5820f148449288576d9429bcfbf7aaaca\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Shanlovana\.android\build-cache\4f5ab5f81aea399e729c086f7e4375394b3e03b5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Shanlovana\.android\build-cache\883c4e6ef0edd4d234b4c638516195b69493ecc5\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Shanlovana\.android\build-cache\83a48d55d84fee08f79b8901f40d147fe00afb09\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Shanlovana\.android\build-cache\7628ba35d53a5e544782989425a73cc5aa9101de\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:54:9-41
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:54:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:55:9-35
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:55:9-35
 	android:allowBackup
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:52:9-35
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:52:9-35
 	android:icon
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:53:9-43
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:53:9-43
 	android:theme
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:56:9-40
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:56:9-40
 activity#com.shanlovana.rxandretrofit.MainActivity
-ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:57:9-59:20
+ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:57:9-59:20
 	android:name
-		ADDED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:57:19-47
+		ADDED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml:57:19-47
 uses-sdk
-INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shanlovana\.android\build-cache\1ddf3e8f39944f214e57d6170a3e61049db23425\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Shanlovana\.android\build-cache\cc71d281bab214687c89fbab473f3c3a7627d1c0\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Shanlovana\.android\build-cache\272fd59a50fa2a3267913c23d5a9f7fa5ec3b788\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Shanlovana\.android\build-cache\a8b407e26e10b6f15665725b2cf0a5512eeedf12\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Shanlovana\.android\build-cache\b1200b329377b1605b143c205f9bbc885b0238f7\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Shanlovana\.android\build-cache\c9d0706edf9a7e817cda27db063447035f90ff52\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Shanlovana\.android\build-cache\846ab51a5de1a11d0a8afc5af0f7d6f3beca2809\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Shanlovana\.android\build-cache\5efd6e483d577036726746a939ea40d5a3302473\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Shanlovana\.android\build-cache\a7e384fb78160cc101b3f33366ac96c7a39b9516\output\AndroidManifest.xml:21:5-23:58
-MERGED from [io.reactivex:rxandroid:1.2.0] C:\Users\Shanlovana\.android\build-cache\e3998b379ea9eaa9bbe3f72adcdde9de3c314723\output\AndroidManifest.xml:19:5-43
+INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shanlovana\.android\build-cache\763da23f2eb35509aaa18dab91ce51fa220ff35d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Shanlovana\.android\build-cache\62c896042a4ba1c5ffc44692b3a0f8713deddd24\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Shanlovana\.android\build-cache\55e3e0730f69b6540221e171e0c008f5c417cdb9\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Shanlovana\.android\build-cache\3fac45394a9ce76f0e002d263f354f9eae19f4f8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Shanlovana\.android\build-cache\677ed5d5820f148449288576d9429bcfbf7aaaca\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Shanlovana\.android\build-cache\4f5ab5f81aea399e729c086f7e4375394b3e03b5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Shanlovana\.android\build-cache\883c4e6ef0edd4d234b4c638516195b69493ecc5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Shanlovana\.android\build-cache\83a48d55d84fee08f79b8901f40d147fe00afb09\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Shanlovana\.android\build-cache\7628ba35d53a5e544782989425a73cc5aa9101de\output\AndroidManifest.xml:21:5-23:58
+MERGED from [io.reactivex:rxandroid:1.2.0] C:\Users\Shanlovana\.android\build-cache\027bccee2865ae6362d5672a161faeedf2b50d9a\output\AndroidManifest.xml:19:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shanlovana\.android\build-cache\1ddf3e8f39944f214e57d6170a3e61049db23425\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Shanlovana\.android\build-cache\763da23f2eb35509aaa18dab91ce51fa220ff35d\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Shanlovana\Desktop\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\AndroidStudy\rxandretrofit\src\main\AndroidManifest.xml
