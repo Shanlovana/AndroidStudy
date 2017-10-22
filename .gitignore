@@ -53,3 +53,5 @@ freeline_project_description.json
 
 # aar
 *.aar
+/rxandretrofit/build/
+import-summary.txt
