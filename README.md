@@ -9,13 +9,13 @@
 
 ## 主要加入项目说明
 
-+  MVPapp  ：让您理解与尽快使用MVP 
++  MVPapp  ：让您理解与尽快使用MVP
 
 个人博客地址：[http://www.halloandroid.com/2017/02/20/MVPModel/](http://www.halloandroid.com/2017/02/20/MVPModel/)
 
 CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/57079048](http://blog.csdn.net/zhcswlp0625/article/details/57079048)
 
-+  TVnetCheck  ：TV段检测网络变化 添加有线网络，无线网络以及PPPOE 
++  TVnetCheck  ：TV段检测网络变化 添加有线网络，无线网络以及PPPOE
 
 个人博客地址：[http://www.halloandroid.com/2017/01/08/TV%20NetCheck/](http://www.halloandroid.com/2017/01/08/TV%20NetCheck/)
 
@@ -27,9 +27,9 @@ CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/54089114](h
 
 CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/61518188](http://blog.csdn.net/zhcswlp0625/article/details/61518188)
 
-+  Downloadfiles  ：Android原生实现多线程断点下载
++  multiDownload  ：Android原生实现多线程断点下载（因个人远吗丢失，思路相同，此处是别人的博客以及demo）
 
-个人博客地址：[http://www.halloandroid.com/2017/05/19/DownLoadDemoWithAllOringinal/](http://www.halloandroid.com/2017/05/19/DownLoadDemoWithAllOringinal/)
+个人博客地址：[http://www.jianshu.com/p/c23b0c10c919](http://www.jianshu.com/p/c23b0c10c919)
 
 CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/72522757](http://blog.csdn.net/zhcswlp0625/article/details/72522757)
 
@@ -89,14 +89,12 @@ CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/72522757](h
 ————————————————————————————————————————————————————
 
 
-**五月二十一添加Android原生实现多线程断点下载**
+**五月二十一添加Android原生实现多线程断点下载(源代码已丢失，更新为另一位老司机博客)**
 
 
-![](http://oo94hcyew.bkt.clouddn.com/mianyemian.jpg)
+![](http://upload-images.jianshu.io/upload_images/1492901-8c7d9ddbc859afd7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-
-![](http://oo94hcyew.bkt.clouddn.com/download.jpg)
 
 
 

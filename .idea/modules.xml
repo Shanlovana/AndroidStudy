@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidStudy.iml" filepath="$PROJECT_DIR$/AndroidStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDownload/multiDownload.iml" filepath="$PROJECT_DIR$/multiDownload/multiDownload.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvpapp/mvpapp.iml" filepath="$PROJECT_DIR$/mvpapp/mvpapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/optimization/optimization.iml" filepath="$PROJECT_DIR$/optimization/optimization.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxandretrofit/rxandretrofit.iml" filepath="$PROJECT_DIR$/rxandretrofit/rxandretrofit.iml" />
