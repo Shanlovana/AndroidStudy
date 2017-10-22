@@ -27,7 +27,7 @@ CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/54089114](h
 
 CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/61518188](http://blog.csdn.net/zhcswlp0625/article/details/61518188)
 
-+  multiDownload  ：Android原生实现多线程断点下载（因个人远吗丢失，思路相同，此处是别人的博客以及demo）
++  multiDownload  ：Android原生实现多线程断点下载（因个人源码丢失，思路相同，此处是别人的博客以及demo，格式为GBK）
 
 个人博客地址：[http://www.jianshu.com/p/c23b0c10c919](http://www.jianshu.com/p/c23b0c10c919)
 
