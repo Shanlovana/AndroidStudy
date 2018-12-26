@@ -1,3 +1,7 @@
+## 本项目不再维护，将移至更多精力在[DailyCode](https://github.com/Shanlovana/DailyCode)上，请各位老铁star，欢迎大家和我一起学习进步。
+**2018.12.26**
+
+
 # RCImageView于2017年5月21更名为AndroidStudy
 
 + 1，为了更方便的让人star，以前基本没考虑过这个问题。
@@ -103,6 +107,4 @@ CSDN博客地址：[http://blog.csdn.net/zhcswlp0625/article/details/72522757](h
 
 **希望与你一起交流！**
 
-[本人个人博客网站](http://www.halloandroid.com/)
-
-[本人CSDN博客地址](http://blog.csdn.net/zhcswlp0625)
+[本人CSDN博客地址](https://www.jianshu.com/u/22473c43624f)
