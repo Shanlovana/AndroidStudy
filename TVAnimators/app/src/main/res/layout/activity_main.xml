@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shancancan.tvdemos.views.MainRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_imitation_xun_ma"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/defaultbg"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:gravity="center"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.shancancan.tvdemos.activities.MainActivity">
+
+    <com.shancancan.tvdemos.views.SmoothHorizontalScrollView
+        android:id="@+id/scroll_xunma"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:paddingLeft="10dp">
+
+            <com.shancancan.tvdemos.views.RoundImageView
+                android:id="@+id/xunma_search"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/botton"
+                android:focusable="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/search"
+                app:borderRadius="15dp"
+                app:type="round"/>
+
+            <com.shancancan.tvdemos.views.RoundImageView
+                android:id="@+id/xunma_history"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_below="@+id/xunma_search"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/botton"
+                android:focusable="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/history"
+                app:borderRadius="15dp"
+                app:type="round"/>
+
+            <com.shancancan.tvdemos.views.RoundImageView
+                android:id="@+id/xunma_apps"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_below="@+id/xunma_history"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/botton"
+                android:focusable="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/apps"
+                app:borderRadius="15dp"
+                app:type="round"/>
+
+            <RelativeLayout
+                android:id="@+id/change_xunma"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="50dp"
+                android:layout_toEndOf="@+id/xunma_apps"
+                android:gravity="center">
+
+                <FrameLayout
+                    android:id="@+id/littleone"
+                    android:layout_width="291dp"
+                    android:layout_height="407dp"
+                    android:clickable="true"
+                    android:clipChildren="false"
+                    android:clipToPadding="false"
+                    android:focusable="true">
+
+                    <com.shancancan.tvdemos.views.RoundImageView
+                        android:id="@+id/littleone_back"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="false"
+                        android:focusable="false"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/bgone"
+                        app:borderRadius="15dp"
+                        app:type="round"
+                        />
+
+                    <ImageView
+                        android:id="@+id/littleone_front"
+                        android:layout_width="291dp"
+                        android:layout_height="406dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="50dp"
+                        android:adjustViewBounds="true"
+                        android:background="@drawable/frontm1"
+                        android:clickable="false"
+                        android:focusable="false"
+                        android:scaleType="fitCenter"/>
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:id="@+id/littletwo"
+                    android:layout_width="291dp"
+                    android:layout_height="407dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_toEndOf="@+id/littleone"
+                    android:clickable="true"
+                    android:clipChildren="false"
+                    android:clipToPadding="false"
+                    android:focusable="true">
+
+                    <com.shancancan.tvdemos.views.RoundImageView
+                        android:id="@+id/littletwo_back"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="false"
+                        android:focusable="false"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/bgtwo"
+                        app:borderRadius="15dp"
+                        app:type="round"
+                        />
+
+                    <ImageView
+                        android:id="@+id/littletwo_front"
+                        android:layout_width="291dp"
+                        android:layout_height="406dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="50dp"
+                        android:adjustViewBounds="true"
+                        android:background="@drawable/frontm2"
+                        android:clickable="false"
+                        android:focusable="false"
+                        android:scaleType="fitCenter"/>
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:id="@+id/littlethree"
+                    android:layout_width="291dp"
+                    android:layout_height="407dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_toEndOf="@+id/littletwo"
+                    android:clickable="true"
+                    android:clipChildren="false"
+                    android:clipToPadding="false"
+                    android:focusable="true">
+
+                    <com.shancancan.tvdemos.views.RoundImageView
+                        android:id="@+id/littlethree_back"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="false"
+                        android:focusable="false"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/bgfour"
+                        app:borderRadius="15dp"
+                        app:type="round"
+                        />
+
+                    <ImageView
+                        android:id="@+id/littlethree_front"
+                        android:layout_width="291dp"
+                        android:layout_height="406dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="50dp"
+                        android:adjustViewBounds="true"
+                        android:background="@drawable/frontm3"
+                        android:clickable="false"
+                        android:focusable="false"
+                        android:scaleType="fitCenter"/>
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:id="@+id/littlefour"
+                    android:layout_width="291dp"
+                    android:layout_height="407dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_toEndOf="@+id/littlethree"
+                    android:clickable="true"
+                    android:clipChildren="false"
+                    android:clipToPadding="false"
+                    android:focusable="true">
+
+                    <com.shancancan.tvdemos.views.RoundImageView
+                        android:id="@+id/littlefour_back"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clickable="false"
+                        android:focusable="false"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/bgthree"
+                        app:borderRadius="15dp"
+                        app:type="round"
+                        />
+
+                    <ImageView
+                        android:id="@+id/littlefour_front"
+                        android:layout_width="291dp"
+                        android:layout_height="406dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="50dp"
+                        android:adjustViewBounds="true"
+                        android:background="@drawable/frontm4"
+                        android:clickable="false"
+                        android:focusable="false"
+                        android:scaleType="fitCenter"
+                        />
+
+                </FrameLayout>
+
+            </RelativeLayout>
+
+
+            <com.shancancan.tvdemos.views.RoundImageView
+
+                android:id="@+id/xunma_mall"
+                android:layout_width="400dp"
+                android:layout_height="180dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="40dp"
+                android:layout_toEndOf="@+id/change_xunma"
+                android:clickable="true"
+                android:focusable="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/bgmall"
+                app:borderRadius="15dp"
+                app:type="round"/>
+
+            <com.shancancan.tvdemos.views.RoundImageView
+                android:id="@+id/xunma_lizhi"
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:layout_below="@+id/xunma_mall"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="30dp"
+                android:layout_toEndOf="@+id/change_xunma"
+                android:clickable="true"
+                android:focusable="true"
+                android:src="@drawable/bglizhi"
+                app:borderRadius="15dp"
+                app:type="round"/>
+
+            <com.shancancan.tvdemos.views.RoundImageView
+                android:id="@+id/xunma_setting"
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:layout_below="@+id/xunma_mall"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="30dp"
+                android:layout_toEndOf="@+id/xunma_lizhi"
+                android:clickable="true"
+                android:focusable="true"
+                android:src="@drawable/settings"
+                app:borderRadius="15dp"
+                app:type="round"/>
+
+
+        </RelativeLayout>
+
+
+    </com.shancancan.tvdemos.views.SmoothHorizontalScrollView>
+
+    <com.shancancan.tvdemos.views.MoveFrameLayout
+        android:id="@+id/xunma_mainup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </com.shancancan.tvdemos.views.MoveFrameLayout>
+
+
+</com.shancancan.tvdemos.views.MainRelativeLayout>

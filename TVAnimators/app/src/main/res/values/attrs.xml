@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="TVRecyclerView">
+        <attr name="android:orientation" tools:ignore="ResourceName"/>
+        <attr name="tv_layoutManager" format="string"/>
+        <attr name="tv_numColumns" format="integer"/>
+        <attr name="tv_numRows" format="integer"/>
+        <attr name="tv_selectedItemCentered" format="boolean" />
+        <attr name="tv_loadMoreBeforehandCount" format="integer" />
+        <attr name="tv_selectedItemOffsetStart" format="dimension" />
+        <attr name="tv_selectedItemOffsetEnd" format="dimension" />
+
+    </declare-styleable>
+    <declare-styleable name="RoundImageView">
+        <attr name="borderRadius" format="reference|dimension"/>
+        <attr name="type">
+            <enum name="circle" value="0"/>
+            <enum name="round" value="1"/>
+        </attr>
+
+    </declare-styleable>
+</resources>
